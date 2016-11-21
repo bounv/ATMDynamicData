@@ -60,6 +60,7 @@ public class Customer {
 
         } else {
             System.out.println("Please consider us in the future!");
+            this.chooseName();
         }
     }
 
